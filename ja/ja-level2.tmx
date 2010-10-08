@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header
+    creationtool="OmegaT"
+    creationtoolversion="2.0.5_4"
+    segtype="sentence"
+    o-tmf="OmegaT TMX"
+    adminlang="EN-US"
+    srclang="EN-US"
+    datatype="plaintext"
+  >
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>en</seg>
+      </tuv>
+      <tuv xml:lang="JA">
+        <seg>ja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Agavi common questions and answers (FAQ)</seg>
+      </tuv>
+      <tuv xml:lang="JA">
+        <seg>Agaviの一般的な質問と答え (FAQ)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>css/faq-default.css</seg>
+      </tuv>
+      <tuv xml:lang="JA">
+        <seg>../css/faq-default.css</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>shjs-0.6/css/sh_nedit.css</seg>
+      </tuv>
+      <tuv xml:lang="JA">
+        <seg>../shjs-0.6/css/sh_nedit.css</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Frequently Asked Questions (FAQ) - Agavi PHP Framework</seg>
+      </tuv>
+      <tuv xml:lang="JA">
+        <seg>よくある質問 (FAQ) - Agavi PHP フレームワーク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>http://github.com/graste/Agavi-FAQ</seg>
+      </tuv>
+      <tuv xml:lang="JA">
+        <seg>http://github.com/graste/Agavi-FAQ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Visit Agavi FAQ on GitHub...</seg>
+      </tuv>
+      <tuv xml:lang="JA">
+        <seg>GitHub上のAgavi FAQを見てください ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>I uploaded this document to github.</seg>
+      </tuv>
+      <tuv xml:lang="JA">
+        <seg>私はこのドキュメントをgithubにアップロードしました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>You can find it under <bpt i='0' x='0'>&lt;a0&gt;</bpt>http://github.com/graste/Agavi-FAQ<ept i='0'>&lt;/a0&gt;</ept>.</seg>
+      </tuv>
+      <tuv xml:lang="JA">
+        <seg> <bpt i='0' x='0'>&lt;a0&gt;</bpt>http://github.com/graste/Agavi-FAQ<ept i='0'>&lt;/a0&gt;</ept>にあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This <bpt i='0' x='0'>&lt;s0&gt;</bpt>unofficial<ept i='0'>&lt;/s0&gt;</ept> FAQ is a work in progress.</seg>
+      </tuv>
+      <tuv xml:lang="JA">
+        <seg>この<bpt i='0' x='0'>&lt;s0&gt;</bpt>非公式<ept i='0'>&lt;/s0&gt;</ept> FAQ は鋭意制作中です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>All information is provided as is without any guarantees.</seg>
+      </tuv>
+      <tuv xml:lang="JA">
+        <seg>すべての情報は保障なく提供されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Use it at your own risk.</seg>
+      </tuv>
+      <tuv xml:lang="JA">
+        <seg>あなたの責任でご利用ください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Oh, and beware of that yellow fade animated gif in the background.</seg>
+      </tuv>
+      <tuv xml:lang="JA">
+        <seg>Oh, and beware of that yellow fade animated gif in the background.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Go to IRC info page</seg>
+      </tuv>
+      <tuv xml:lang="JA">
+        <seg>IRC情報ページへ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Go to mailing list info page</seg>
+      </tuv>
+      <tuv xml:lang="JA">
+        <seg>メーリングリスト情報ページへ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Go to IRC logs page</seg>
+      </tuv>
+      <tuv xml:lang="JA">
+        <seg>IRCログページへ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Go to trac SVN view of Agavi 1.0 sources...</seg>
+      </tuv>
+      <tuv xml:lang="JA">
+        <seg>Agavi 1.0ソース のtrac SVN view ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Go to trac SVN view of Agavi 1.0 sample application...</seg>
+      </tuv>
+      <tuv xml:lang="JA">
+        <seg>Agavi 1.0 サンプルアプリケーションの trac SVN view ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Send email to author</seg>
+      </tuv>
+      <tuv xml:lang="JA">
+        <seg>著者にメールする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>On this page a few common questions are answered.</seg>
+      </tuv>
+      <tuv xml:lang="JA">
+        <seg>このページではわずかな一般的な質問に答えています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Examples are given where appropriate.</seg>
+      </tuv>
+      <tuv xml:lang="JA">
+        <seg>必要に応じて例示しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If you have questions that are not answered here, visit the user mailing list, join the <bpt i='0' x='0'>&lt;a0&gt;</bpt>IRC channel<ept i='0'>&lt;/a0&gt;</ept> or search through <bpt i='1' x='1'>&lt;a1&gt;</bpt>mailing list archive<ept i='1'>&lt;/a1&gt;</ept> or <bpt i='2' x='2'>&lt;a2&gt;</bpt>IRC channel logs<ept i='2'>&lt;/a2&gt;</ept> as a start.</seg>
+      </tuv>
+      <tuv xml:lang="JA">
+        <seg>もしこのページで答えられていない質問がある場合は、メーリングリストを訪れたり、<bpt i='0' x='0'>&lt;a0&gt;</bpt>IRCチャンネル<ept i='0'>&lt;/a0&gt;</ept>に参加したり、とりあえず<bpt i='1' x='1'>&lt;a1&gt;</bpt>メーリングリストアーカイブ<ept i='1'>&lt;/a1&gt;</ept> や <bpt i='2' x='2'>&lt;a2&gt;</bpt>IRCチャンネルログ<ept i='2'>&lt;/a2&gt;</ept>を検索したりしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The <bpt i='3' x='3'>&lt;a3&gt;</bpt>Agavi source code<ept i='3'>&lt;/a3&gt;</ept> is well documented and the <bpt i='4' x='4'>&lt;a4&gt;</bpt>sample application<ept i='4'>&lt;/a4&gt;</ept> should give you some good practices to start with.</seg>
+      </tuv>
+      <tuv xml:lang="JA">
+        <seg><bpt i='3' x='3'>&lt;a3&gt;</bpt>Agaviのソースコード<ept i='3'>&lt;/a3&gt;</ept> はよくドキュメントが書かれていて 、<bpt i='4' x='4'>&lt;a4&gt;</bpt>サンプルアプリケーション<ept i='4'>&lt;/a4&gt;</ept>も始めるにあたっての優れた実例を示してくれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In case you want a question added here, ask via mail (<bpt i='5' x='5'>&lt;a5&gt;</bpt>agavi-faq@mivesto.de<ept i='5'>&lt;/a5&gt;</ept>) or visit the IRC channel (ask graste).</seg>
+      </tuv>
+      <tuv xml:lang="JA">
+        <seg>ここに質問を追加したい場合は、メール (<bpt i='5' x='5'>&lt;a5&gt;</bpt>agavi-faq@mivesto.de<ept i='5'>&lt;/a5&gt;</ept>) で問い合わせるか、IRCチャンネルに来てください (grasteに聞いてください)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The examples in this FAQ are skeletons most of the time.</seg>
+      </tuv>
+      <tuv xml:lang="JA">
+        <seg>このFAQの例はほとんどの場合スケルトンです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It is recommended to be strict when checking user input such as header variables, cookies, files or request parameters.</seg>
+      </tuv>
+      <tuv xml:lang="JA">
+        <seg>ユーザー入力をチェックする場合は厳密に行うことが推奨されます。ユーザー入力とはヘダー変数、クッキー、ファイル、リクエストパラメータなどです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The validator examples are just there to get you started with some features.</seg>
+      </tuv>
+      <tuv xml:lang="JA">
+        <seg>バリデータの例は機能の取っ掛かりとして示されているにすぎません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The usage of fragment caching may lead to side effects if you define caches only for production environment and then begin to wonder why some code or slot or whatever doesn't get executed as it always was before.</seg>
+      </tuv>
+      <tuv xml:lang="JA">
+        <seg>フラグメントキャッシュの使用は副作用をもたらすことがあります。もし製品環境でのみフラグメントキャッシュを定義して、かつコードやスロットや何かが以前のように動かなくなったとしたら、そういうことです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Please think twice before copying and pasting example code (which is not production ready on itself most of the time).</seg>
+      </tuv>
+      <tuv xml:lang="JA">
+        <seg>よく考えてから例示コードをコピー＆ペーストしてください。(多くの場合例示コードは製品向けではありません。)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Go to 'No Best Practices' article by James Bach...</seg>
+      </tuv>
+      <tuv xml:lang="JA">
+        <seg>James Bachによる'No Best Practices' の記事 ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Go to introductory Agavi quick start tutorial...</seg>
+      </tuv>
+      <tuv xml:lang="JA">
+        <seg>初歩のAgaviクイックスタートチュートリアルへ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Most <bpt i='0' x='0'>&lt;a0&gt;</bpt>good practices or patterns<ept i='0'>&lt;/a0&gt;</ept> are probably to be found in the <bpt i='1' x='1'>&lt;a1&gt;</bpt>sample application<ept i='1'>&lt;/a1&gt;</ept> or the official <bpt i='2' x='2'>&lt;a2&gt;</bpt>Agavi quick start tutorial<ept i='2'>&lt;/a2&gt;</ept>.</seg>
+      </tuv>
+      <tuv xml:lang="JA">
+        <seg>ほとんどの <bpt i='0' x='0'>&lt;a0&gt;</bpt>よい習慣やパターン<ept i='0'>&lt;/a0&gt;</ept>はおそらく<bpt i='1' x='1'>&lt;a1&gt;</bpt>サンプルアプリケーション<ept i='1'>&lt;/a1&gt;</ept>や公式の<bpt i='2' x='2'>&lt;a2&gt;</bpt>Agaviクイックスタートチュートリアル<ept i='2'>&lt;/a2&gt;</ept>に書かれています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>With Agavi you can have different contexts (think 'web', 'console' or 'soap') and multiple environments (like 'development', 'staging', 'production' etc.).</seg>
+      </tuv>
+      <tuv xml:lang="JA">
+        <seg>Agaviを使用すると、異なるコンテキスト ('web'や 'console' 、 'soap'と考えてください) と複数の環境 (たとえば'development', 'staging', 'production' など.)を持つことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The <bpt i='0' x='0'>&lt;s0&gt;</bpt><bpt i='1' x='1'>&lt;c1&gt;</bpt>&lt;ae:configuration&gt;<ept i='1'>&lt;/c1&gt;</ept> sections in the config files are sorted first (vanilla, environment-only, context-only, environment+context) and then merged together.<ept i='0'>&lt;/s0&gt;</ept> Knowing this, you can just define default settings and then overwrite them in context- or environment-specific sections.</seg>
+      </tuv>
+      <tuv xml:lang="JA">
+        <seg>設定ファイル内の<bpt i='0' x='0'>&lt;s0&gt;</bpt><bpt i='1' x='1'>&lt;c1&gt;</bpt>&lt;ae:configuration&gt;<ept i='1'>&lt;/c1&gt;</ept> セクションはまずソート(通常, 環境だけ, コンテキストだけ, 環境とコンテキスト)され統合されます。<ept i='0'>&lt;/s0&gt;</ept> これを知っていれば、既定の設定を定義し、コンテキストまたは環境固有のセクションでそれらを上書きできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Some examples below make use of this.</seg>
+      </tuv>
+      <tuv xml:lang="JA">
+        <seg>いくつかの例はこれらを利用しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>You may use regular expressions like this in the attribute: <bpt i='2' x='2'>&lt;c2&gt;</bpt>environment=&quot;development.*&quot;<ept i='2'>&lt;/c2&gt;</ept>.</seg>
+      </tuv>
+      <tuv xml:lang="JA">
+        <seg>次のような正規表現を属性値で利用するかもしれません。<bpt i='2' x='2'>&lt;c2&gt;</bpt>environment=&quot;development.*&quot;<ept i='2'>&lt;/c2&gt;</ept>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This would allow for common settings for all environments that start with <bpt i='3' x='3'>&lt;c3&gt;</bpt>development<ept i='3'>&lt;/c3&gt;</ept> (so John and Chuck from your dev-team get those settings in their private <bpt i='4' x='4'>&lt;c4&gt;</bpt>development-john-rambo<ept i='4'>&lt;/c4&gt;</ept> or <bpt i='5' x='5'>&lt;c5&gt;</bpt>development-chuck-norris<ept i='5'>&lt;/c5&gt;</ept> configuration sections).</seg>
+      </tuv>
+      <tuv xml:lang="JA">
+        <seg>これは<bpt i='3' x='3'>&lt;c3&gt;</bpt>development<ept i='3'>&lt;/c3&gt;</ept> で始まるすべての環境に対する共通の設定を許します(つまり、 開発チームのJohn と Chuckはそれらの設定を彼らの個人的な <bpt i='4' x='4'>&lt;c4&gt;</bpt>development-john-rambo<ept i='4'>&lt;/c4&gt;</ept> や <bpt i='5' x='5'>&lt;c5&gt;</bpt>development-chuck-norris<ept i='5'>&lt;/c5&gt;</ept> といった設定セクションで利用できます)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>General topics</seg>
+      </tuv>
+      <tuv xml:lang="JA">
+        <seg>一般的なトピック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Routing related topics</seg>
+      </tuv>
+      <tuv xml:lang="JA">
+        <seg>ルーティングに関するトピック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Validation related topics</seg>
+      </tuv>
+      <tuv xml:lang="JA">
+        <seg>バリデーションに関するトピック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Caching related topics</seg>
+      </tuv>
+      <tuv xml:lang="JA">
+        <seg>キャッシングに関するトピック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Filter related topics</seg>
+      </tuv>
+      <tuv xml:lang="JA">
+        <seg>フィルターに関するトピック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Misc topics</seg>
+      </tuv>
+      <tuv xml:lang="JA">
+        <seg>その他</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
