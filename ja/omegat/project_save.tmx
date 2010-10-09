@@ -281,7 +281,7 @@
         <seg>The &lt;s0&gt;&lt;c1&gt;&lt;ae:configuration&gt;&lt;/c1&gt; sections in the config files are sorted first (vanilla, environment-only, context-only, environment+context) and then merged together.&lt;/s0&gt; Knowing this, you can just define default settings and then overwrite them in context- or environment-specific sections.</seg>
       </tuv>
       <tuv lang="JA">
-        <seg>設定ファイル内の&lt;s0&gt;&lt;c1&gt;&lt;ae:configuration&gt;&lt;/c1&gt; セクションはまずソート(通常, 環境だけ, コンテキストだけ, 環境とコンテキスト)され統合されます。&lt;/s0&gt; これを知っていれば、既定の設定を定義し、コンテキストまたは環境固有のセクションでそれらを上書きできます。</seg>
+        <seg>設定ファイル内の&lt;s0&gt;&lt;c1&gt;&lt;ae:configuration&gt;&lt;/c1&gt; セクションはまずソートされ(通常, 環境だけ, コンテキストだけ, 環境とコンテキスト)統合されます。&lt;/s0&gt; これを知っていれば、既定の設定を定義し、コンテキストまたは環境固有のセクションでそれらを上書きできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -297,7 +297,7 @@
         <seg>You may use regular expressions like this in the attribute: &lt;c2&gt;environment=&quot;development.*&quot;&lt;/c2&gt;.</seg>
       </tuv>
       <tuv lang="JA">
-        <seg>次のような正規表現を属性値で利用するかもしれません。&lt;c2&gt;environment=&quot;development.*&quot;&lt;/c2&gt;.</seg>
+        <seg>次のような正規表現を属性値で利用するかもしれません。&lt;c2&gt;environment=&quot;development.*&quot;&lt;/c2&gt;です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -318,10 +318,258 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Is there a way to change the action method mappings of HTTP verbs (e.g. swap PUT/POST for RESTful applications)?</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>HTTPメソッドにマップされたアクションメソッドを変更する (例えばPUTとPOST をRESTfulアプリ用に入れ替る)方法はありますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Is there any way to set a template file extension per output type?</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>出力形式ごとにテンプレートファイルの拡張子を設定する方法はありますか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What's that &lt;c0&gt;isSimple()&lt;/c0&gt; method all about (in an action)?</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>(アクションの)&lt;c0&gt;isSimple()&lt;/c0&gt;メソッドって一体なんですか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How can I make use of that?</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>どのように使うのですか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How do I return XML to the client (like in an Atom/RSS newsfeed)?</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>どのようにクライアントに(Atom/RSSのニュースフィードのような)XMLを返すの ですか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How do I implement AJAX- or JSON-related solutions using Agavi?</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>どのようにAgaviを使用してAJAXやJSONベースのソリューションを実装するのですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How to set a different exception template for AJAX requests?</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>どのようにAJAXリクエストに対して別の例外テンプレートを設定するのですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Where to store application settings and how to access them?</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>どこにアプリケーションの設定を保存し、どのようにアクセスするのですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How to set custom database connection properties?</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>どのようにカスタムデータベースの設定プロパティを設定するのですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How to get &lt;c0&gt;HTTP_*&lt;/c0&gt; variables?</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>どのように &lt;c0&gt;HTTP_*&lt;/c0&gt; 変数を取得するのですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What about cookies and how can I get/set/remove them?</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>クッキーについてはどのように取得/設定/削除を行うのですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How to do forwards and redirects?</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>どのようにフォワードやリダイレクトを行うのですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How to return HTTP status codes?</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>どのようにHTTPステータスコードを返すのですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Where can I change the session settings?</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>どこでセッション設定を変更できますか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fast!</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>まず!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I need an example of slots and how to use them!</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>スロットの例と使い方が必要だ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How to load different layouts?</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>どのように異なるレイアウトをロードするのですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How to re-use input templates to display errors?</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>どのように入力テンプレートをエラー表示に再利用するのですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How to load another master template?</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>どのように別のマスターテンプレートを読み込むのですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What is the Agavi startup sequence?</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>Agaviの起動シーケンスとは何ですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What do I need to know about Agavi models and how to use them?</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>Agaviのモデルについて何か知っておくべきことはありますか？またどのように使うのですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How to use custom configuration files?</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>どのようにカスタム設定ファイルを使うのですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Is it possible to change the directory structure of a module?</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>モジュールのディレクトリ構造を変更することはできますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Routing related topics</seg>
       </tuv>
       <tuv lang="JA">
         <seg>ルーティングに関するトピック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What do I have to know about Agavi's routing system?</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>Agaviのルーティングシステムについて知っておくことはありますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How to define default values for routing parameters?</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>どのようにルーティングパラメータのデフォルト値を定義するのですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How to use those curly braces for min/max quantifiers?</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>どのように最少/最大の量指定子用の波括弧を使えばいいですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How to make route pattern matching case-insensitive?</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>どのように大文字と小文字を区別しないでマッチするルートパターンを作ればよいですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What additional options are there to be specified when generating routes?</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>生成時に指定できる追加オプションはどのようなものがありますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How to determine the current matched routes?</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>現在の一致したルートを特定するには？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What are routing callbacks and how can I use them?</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>ルーティングコールバックとは何でどう使うのですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How do I generate routes with different output types?</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>どのように異なった出力形式を持つルートを生成するのですか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -334,10 +582,226 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>What are the validation modes and what do I need to know about them?</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>バリデーションモードとはなんですか？またそれについて知っておくべきことはなんですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Is it possible to define nested validators?</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>入れ子のバリデータを定義できますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What is the name of a validator for?</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>何のためにバリデータの名前はあるのですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How to prevent performing other validations on a field in case one validator fails?</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>どうやって、一つのバリデーションが失敗したフィールド上の他のバリデーションを回避するのですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Can validators depend on other validators?</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>バリデータは他のバリデータに依存できますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Can the &quot;depends&quot; attribute receive more than one dependency?</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>&quot;depends&quot;属性には複数の依存関係を設定できますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Is there a possibility to register validators manually in an action?</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>アクション内でバリデータを手動登録できますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Is there any example of custom file validations or the &lt;c0&gt;AgaviImageFileValidator&lt;/c0&gt;?</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>カスタムされたファイルバリデータ や&lt;c0&gt;AgaviImageFileValidator&lt;/c0&gt;の例はありますか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How can I repopulate readonly/disabled input fields?</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>どのように読み取り専用や無効になっている入力フィールドを再投入できますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How to manually output error messages in a view?</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>ビューにおいて手動でエラーを出力するには、どのようにすればよいですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Is there a better way than using &lt;c0&gt;isSet&lt;/c0&gt; or &lt;c1&gt;isNotEmpty&lt;/c1&gt; to validate route parameters?</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>ルートパラメータをバリデートするために&lt;c0&gt;isSet&lt;/c0&gt; や&lt;c1&gt;isNotEmpty&lt;/c1&gt;を利用する以外のより良い方法はありますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How do I use the &lt;c0&gt;inarray&lt;/c0&gt; validator?</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>どのように&lt;c0&gt;inarray&lt;/c0&gt;バリデータを使えばよいですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How do I validate array input?</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>どのように配列入力をバリデートすればよいですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Is there an example for the &lt;c0&gt;AgaviDateTimeValidator&lt;/c0&gt;?</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>&lt;c0&gt;AgaviDateTimeValidator&lt;/c0&gt;の例はありますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How do I check validation results and retrieve the incidents of a failed validator?</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>どのようにバリデーション結果をチェックしたり、失敗したバリデータのインシデントを取得できますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How to handle checkbox input fields?</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>どのようにチェックボックス入力フィールドを扱えばよいですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I'm writing the same validation code over and over again, which doesn't feel very DRY.</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>同じバリデーションコードを何度も何度も書いています。これでは全然DRYじゃないです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How to solve this?</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>どうすればよいですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How to write a custom validator?</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>どのようにカスタムバリデータを書けばよいですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How to register shortnames for validators and why should I use them?</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>どのようにバリデータの短縮名を登録しますか？またなぜそうした方がよいのですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Caching related topics</seg>
       </tuv>
       <tuv lang="JA">
         <seg>キャッシングに関するトピック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Is it possible to (globally) enable or disable fragment caching?</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>フラグメントキャッシュを(グローバルに)有効または無効にすることはできますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What are caching groups and how are they used for fragment caching?</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>キャッシンググループとはなんですか？またどのように作用するのですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Which &lt;c0&gt;source&lt;/c0&gt; attribute values are available and what do they do?</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>どの&lt;c0&gt;source&lt;/c0&gt;属性値が利用可能で、それらは何を行うのですか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Any tips before starting to use fragment caching intensively?</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>フラグメントキャッシュを利用する前に知っておくべきことはありますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Translation related topics</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>翻訳に関するトピック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Quickstart</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>クイックスタート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How do I use and customize a currency format?</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>通貨フォーマットはどのように使ったりカスタマイズしたりするのですか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -350,10 +814,66 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>What kind of filters are available by default and how to configure them?</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>デフォルトではどのようなフィルターが利用可能ですか？また、それらはどのように設定するのですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>tbd (FormPopulationFilter tipps)</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>tbd (FormPopulationFilterのtips)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What's the execution order of filters?</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>どのようなフィルタの実行順序ですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Testing related topics</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>テストに関するトピック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How do I start?</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>どのように始めればよいですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Misc topics</seg>
       </tuv>
       <tuv lang="JA">
         <seg>その他</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How do I get improved code completion in Netbeans or Eclipse or &lt;c0&gt;$favoriteIDE&lt;/c0&gt;?</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>NetbeansやEclipseまたは&lt;c0&gt;$favoriteIDE&lt;/c0&gt;で上手くコード補完を得るにはどうすればよいですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How do I set an exit code in console context or shell applications?</seg>
+      </tuv>
+      <tuv lang="JA">
+        <seg>どのようにして、コンテキストまたはシェルコンソールアプリケーションで終了コードを設定するのですか？</seg>
       </tuv>
     </tu>
   </body>
